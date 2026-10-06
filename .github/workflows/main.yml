@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: checkout code
         uses: actions/checkout@v7
-      - name: run python program
-
+        
       - name: run python program
         run: python welcome.py
