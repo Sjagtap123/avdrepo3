@@ -1,0 +1,1 @@
+print("Load data in sink")
